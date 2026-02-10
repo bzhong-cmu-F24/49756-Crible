@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.DS_Store
+*.log
+.env.local
+.env*.local
+
+# Local assets / research artifacts that should stay local
+screenshots/
+notes/
+tmp/
+streamlit_app.py
+.vscode/
